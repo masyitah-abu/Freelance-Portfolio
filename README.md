@@ -13,7 +13,7 @@
 - The method used in this project are LBP as feature extraction and SVM as classification
 - The dataset output will be represent in Confussion Matrix
 
-# [Project 3: Malay Command Recognition using ANN](https://github.com/masyitah-abu/Emotion-Recogntion-using-SVM) 
+# [Project 3: Malay Command Recognition using ANN](https://github.com/masyitah-abu/Malay-Command-Recognition-using-ANN) 
 - This project is to give command in malay language to on or off electrical appliance like fan and light
 - Four command is choose to BUKA KIPAS, TUTUP KIPAS, BUKA LAMPU and TUTUP LAMPU
 - The method used in this project are Signal filtering using low pass filter, MFCC as feature extraction and ANN as classification
