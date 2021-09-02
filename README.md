@@ -7,8 +7,14 @@
  - Build 3 class of homomorphic filtering
  - Represent the data output in MSE
 
-# [Project 2: Emotion Recognition](https://github.com/masyitah-abu/Emotion-Recogntion-using-SVM) 
+# [Project 2: Emotion Recognition using SVM](https://github.com/masyitah-abu/Emotion-Recogntion-using-SVM) 
 - This project are refer from https://github.com/gomanajah/Emotion-Estimation-From-Facial-Images
 - Only 7 Expression databased is used in my project 
-- The method used in this project are SVM
+- The method used in this project are LBP as feature extraction and SVM as classification
 - The dataset output will be represent in Confussion Matrix
+
+# [Project 3: Malay Command Recognition using ANN](https://github.com/masyitah-abu/Emotion-Recogntion-using-SVM) 
+- This project is to give command in malay language to on or off electrical appliance like fan and light
+- Four command is choose to BUKA KIPAS, TUTUP KIPAS, BUKA LAMPU and TUTUP LAMPU
+- The method used in this project are Signal filtering using low pass filter, MFCC as feature extraction and ANN as classification
+- This is my final year project the thesis and the slide will be upload togther.
