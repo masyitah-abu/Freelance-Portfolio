@@ -25,3 +25,9 @@
  - NEU: 6 class of steel defects
  - SERVESTAL: with defect and without defect
 - In this project GUI is include for NEU dataset on the best transfer learning method  
+- This project is publish in IOP Publication https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012041/meta
+
+# [Project 5: Classification of Multiple Visual Field using CNN](https://github.com/masyitah-abu/Classification-of-Multiple-Visual-Field-Defects-using-CNN)
+- This project is done to detect 6 types of visual field defect using Convolutional Neural Network 
+- This project is colabration with USM Opthalmology department  
+- This project had publish in IOP Publication https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012014/meta
