@@ -31,3 +31,8 @@
 - This project is done to detect 6 types of visual field defect using Convolutional Neural Network 
 - This project is colabration with USM Opthalmology department  
 - This project had publish in IOP Publication https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012014/meta
+
+# [Project 6: Sentiment Analysis for Twitter Data]() 
+- This project is analyse tweet done by Malaysian during 30 day before and after election day 2018.
+- The package used to analyse the data is tweepy
+- This project is colabrate with Ninie Racha from UMS. 
