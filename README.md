@@ -36,3 +36,8 @@
 - This project is analyse tweet done by Malaysian during 30 day before and after election day 2018.
 - The package used to analyse the data is tweepy
 
+# [Project 7: Malay Command Recognition using Audio Fingerprint Method](https://github.com/masyitah-abu/Malay-Command-Recognition-using-Audio-Fingerprint) 
+
+# [Project 8: Modelling Composite Spherical Assembledge Method](https://github.com/masyitah-abu/Modelling-Composite-Spherical-Assembledge-Method) 
+
+# [Project 9: Thermal Image Detection](https://github.com/masyitah-abu/Thermal-Image-Detection) 
