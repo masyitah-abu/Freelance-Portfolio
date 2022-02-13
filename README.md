@@ -49,3 +49,5 @@
 - This project is to detect the temperature on the forehead of a human
 - The color display by the thermal image indicate the temperature of the human
 - This project is simple code of temperature detection so the automatic detection of forehead is not develop.
+
+# [UPDATE!!]
