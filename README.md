@@ -37,7 +37,15 @@
 - The package used to analyse the data is tweepy
 
 # [Project 7: Malay Command Recognition using Audio Fingerprint Method](https://github.com/masyitah-abu/Malay-Command-Recognition-using-Audio-Fingerprint) 
+- This project using an Audio Fingerprint method that follow the hashing algorithm to detect command given by the user.
+- Nine command is choose for smart house application BUKA KIPAS, TUTUP KIPAS, BUKA LAMPU, TUTUP LAMPU, BUKA TV, TUTUP TV, and SIARAN 1, 2 and 3 
 
 # [Project 8: Modelling Composite Spherical Assembledge Method](https://github.com/masyitah-abu/Modelling-Composite-Spherical-Assembledge-Method) 
+- This project is to analyse different input of Spherical model insert by the user.
+- A graph will be plot based on the user input
+- The shape of the graph will be analyse 
 
 # [Project 9: Thermal Image Detection](https://github.com/masyitah-abu/Thermal-Image-Detection) 
+- This project is to detect the temperature on the forehead of a human
+- The color display by the thermal image indicate the temperature of the human
+- This project is simple code of temperature detection so the automatic detection of forehead is not develop.
