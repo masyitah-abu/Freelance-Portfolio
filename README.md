@@ -50,4 +50,4 @@
 - The color display by the thermal image indicate the temperature of the human
 - This project is simple code of temperature detection so the automatic detection of forehead is not develop.
 
-# [UPDATE!!]
+# [UPDATE!!](https://drive.google.com/drive/folders/1nA-adZFKvaaH9dMjW-9q9qexfvP5-kHS?usp=sharing)
