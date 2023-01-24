@@ -52,6 +52,3 @@
 
 # [Next update!!](https://drive.google.com/drive/folders/1nA-adZFKvaaH9dMjW-9q9qexfvP5-kHS?usp=sharing)
 
-# TEACHING WORK
-
-[SUBJECT : Data Structure & Algorithm] 
