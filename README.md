@@ -1,4 +1,4 @@
-# MY PORTFOLIO
+# FREELANCE WORK
 
 # [Project 1: Homomorphic Filtering](https://github.com/masyitah-abu/Homomorphic-Filtering) 
 - This project is about image processing to remove noise from raw image
@@ -51,3 +51,7 @@
 - This project is simple code of temperature detection so the automatic detection of forehead is not develop.
 
 # [Next update!!](https://drive.google.com/drive/folders/1nA-adZFKvaaH9dMjW-9q9qexfvP5-kHS?usp=sharing)
+
+# TEACHING WORK
+
+1. [SUBJECT : Data Structure & Algorithm] 
